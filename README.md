@@ -13,7 +13,7 @@
 - Gra do 5 punktów
 
 ## Jak uruchomić
-- Pobierz i rozpakuj Release.zip
+- Pobierz release Pong3D_v1.0 i rozpakuj
 - Uruchom Klinkowski_Pawel_projekt.exe
   
 ## Sterowanie
